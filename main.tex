@@ -1,0 +1,54 @@
+
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+
+
+% Erstellen der directorys für Bilder und Tabellen
+\def\figdir{figures}
+\def\tabledir{tables}
+
+
+\begin{document}
+
+\newpage
+\include{title}
+
+\newpage
+\tableofcontents		% Inhaltsverzeichnis
+\newpage
+
+% Include sections
+\input{Einleitung}
+\newpage
+\input{Erstellen_der_erstem_Platine}
+\newpage
+\input{KiCad_Workshop}
+\newpage
+\input{Bestücken_der_Platinen}
+\newpage
+\input{Fazit}
+
+\newpage
+\section*{Abbildungsverzeichnis}
+\begin{itemize}
+    \item Abbildung 1: Layout der Platine Leiterbahnbreite 0,3mm
+    \item Abbildung 2: Schaltplan Messpunkte beschriftet und Widerstandswert angegeben.
+    
+\end{itemize}
+
+\section*{Quellenverzeichnis}
+\begin{itemize}
+    \item Quelle 1: \url{https://www.pcbway.com/blog/
+    PCB_Manufacturing_Information/What_is_PCB_Tombstone_.html}
+    \item Quelle 2: \url{https://learning-campus.th-rosenheim.de/
+    course/view.php?id=5012}
+\end{itemize}
+
+\end{document}

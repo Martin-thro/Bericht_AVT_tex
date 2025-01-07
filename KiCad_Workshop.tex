@@ -1,0 +1,33 @@
+\section{KiCad Workshop}
+
+\subsection{Libraries}
+Um Leiterplatten zu entwerfen, sind Bauteile und zugehörige Footprints unverzichtbar.
+Bauteile und Footprints werden in Libraries oder auch Bibliotheken angelegt und eingepflegt.
+Man kann zu jedem Projekt eine eigene Library anlegen oder eine allgemeine Library verwenden, dies bleibt dem Entwickler selbst überlassen. 
+
+In der freien Wirtschaft jedoch wird von Firmen häufig vorgeschrieben, wie und unter welchen Bedingungen Bauteile in das System einzupflegen sind.
+Das Anlegen einer eigenen Bauteilbibliothek hat den Vorteil, dass sich der Anwender schneller zurechtfindet.
+Oft wird auch nur ein gewisses Kontingent an Bauteilen verwendet, da der jeweilige Hersteller der Leiterplatte nur ein definiertes Sortiment nutzt. 
+
+\subsection{Bauteile}
+Um eine Leiterplatte fertigen zu können, braucht man einen Schaltplan, nach welchem man vorgeht.
+Ohne Schaltung braucht man auch keine Leiterplatte.
+Um wiederum einen Schaltplan erstellen zu können, benötigt man Bauteile.
+Diese Bauteile sind zum Teil in KiCad-Standardbibliotheken bereits vorhanden.
+
+Im Falle des Taschenlampenprojekts wurden jedoch alle Bauteile extra in einer eigenen Library angelegt.
+Die Bauteile erfüllen primär die Rolle, den Schaltplan richtig zu zeichnen und auf Funktion zu prüfen.
+Bauteile werden im Bauteileditor gezeichnet und dann in einer Library gespeichert.
+In den Symboleigenschaften können zusätzlich Artikelnummern, Datenblätter und 3D-Modelle hinterlegt werden.
+
+Bauteile können im Bauteileditor von Grund auf neu gezeichnet werden, oder man kopiert bereits vorhandene Bauteile und ändert diese entsprechend den Anforderungen ab.
+
+\subsection{Footprints}
+Um von den Bauteilen eine Verbindung zur Leiterplatte herstellen zu können, müssen sogenannte Footprints erstellt werden.
+Der Footprint oder auch Fußabdruck der Leiterplatte wird je nach Bauteilstruktur so aufgebaut, dass alle Kontaktierungen auf die Leiterplatte passen. 
+
+Die Kontaktherstellung zur Leiterplatte erfolgt über sogenannte Lötpads.
+Diese sind kleine Kupferfelder auf der Leiterplatte, auf welche die Kontakte der Bauteile in der Bestückung aufgelötet werden. Beim Zeichnen der Lötpads sind einige Aspekte zu beachten, wie etwa, ob das Bauteil per Hand oder in einem automatischen Prozess gelötet wird. 
+
+Beim Löten per Hand sollten die Pads etwas größer ausgeführt werden, da man per Hand nicht so genau löten kann.
+Bei automatischen Prozessen sollten die Pads kleiner gehalten werden, um Platz zu sparen und Fehler wie den sogenannten Gravestone-Effekt zu vermeiden, bei dem sich Bauteile aufstellen wie Grabsteine. 
