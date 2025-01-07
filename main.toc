@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {2.1}Libraries}{5}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Bauteile}{5}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Footprints}{5}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Bestücken der Platinen}{6}{section.3}%
+\contentsline {section}{\numberline {3}Endmontage Radio und Taschenlampe}{6}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Bestücken und Löten der Taschenlampe}{6}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Bestücken und Löten des Radios}{6}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Fazit}{7}{section.4}%
