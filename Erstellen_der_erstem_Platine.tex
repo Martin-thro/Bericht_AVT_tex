@@ -2,7 +2,7 @@
 
 \subsection{Entwurf einer Leiterplatte}
 Zum Entwurf einer funktionsfähigen Platine sind ein Schaltplan, ein PCB-Layout und die passenden Bauteile mit zugehörigen Footprints erforderlich.
-Für die erste Platine werden nur Testpunkte erstekkt, weshalb die Erstellung eigener Bauteile und Footprints in sogenannten Libraries nicht im Fokus stand.
+Für die erste Platine werden nur Testpunkte erstellt, weshalb die Erstellung eigener Bauteile und Footprints in sogenannten Libraries nicht im Fokus stand.
 Der Schwerpunkt liegt vielmehr auf der Herstellung einer spezifischen Leiterbahn mit auf der Platine.\\
 \\
 Eine besondere Anforderung bestand darin, eine Leiterbahn mit einem definierten Widerstand von genau $200,\text{m}\Omega$ zu realisieren.
@@ -16,7 +16,7 @@ l &= \frac{0{,}2\,\Omega \cdot 0{,}275\,\text{mm} \cdot 0{,}035\,\text{mm}}{0{,}
 \end{align*}
 \\
 Die berechnete Länge wird anschließend in das Platinenlayout erstellt.
-Da die Gesamtlänge der Leiterbahn durch das Layout die berechneten Länge überschreiten konnte, wird die Leiterbahn in einem wellenartigen Muster umgesetzt, um die geforderte Gesamtlänge einzuhalten.\\
+Da die Gesamtlänge der Leiterbahn durch das Layout die berechneten Länge überschreiten könnte, wird die Leiterbahn in einem wellenartigen Muster umgesetzt, um die geforderte Gesamtlänge einzuhalten.
 
 \begin{figure}[h]
 \centering 
@@ -24,6 +24,14 @@ Da die Gesamtlänge der Leiterbahn durch das Layout die berechneten Länge über
 \caption{PCB Layout der Platine mit Leiterbahn = 0,275 mm}
 \label{fig:Abbildung 1}
 \end{figure}
+
+\noindent
+Außerdem wird der Name des Studierenden zusammen mit der Jahreszahl auch als Kupferbahn ausgeführt.
+Bei der herkömmlichen Fertigung von Leiterplatten wird ein Bestückungsdruck für Bezeichnung der Komponenten und zusätzlichen Informationen zu den Bauteilen verwendet.
+Da hier allerdings nur eine Kupferschicht vorgesehen ist, wird darauf verzichtet.
+\\
+Für die nachfolgende Messung bzw. Überprüfung unter dem Mikroskop werden vier Linien horizontal und vertikal in festem Abstand auf der Leiterplatte definiert.
+
 
 
 

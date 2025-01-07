@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {1}Herstellung der ersten Platine}{3}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Entwurf einer Leiterplatte}{3}{subsection.1.1}%
 \contentsline {paragraph}{Berechnung:}{3}{section*.3}%
-\contentsline {subsection}{\numberline {1.2}Herstellung der Platine}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.2}Herstellung der Platine}{4}{subsection.1.2}%
 \contentsline {subsubsection}{\numberline {1.2.1}Belichten}{4}{subsubsection.1.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2}Entwickeln}{4}{subsubsection.1.2.2}%
 \contentsline {subsubsection}{\numberline {1.2.3}Ätzen}{4}{subsubsection.1.2.3}%
