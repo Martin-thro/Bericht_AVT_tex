@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  13 JAN 2025 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  13 JAN 2025 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,7 +497,7 @@ nheim-2019_master_quer_2c-eps-converted-to.pdf figures/logo-th-rosenheim-2019_m
 aster_quer_2c.eps>
 (epstopdf)             \includegraphics on input line 10.
 Package epstopdf Info: Output file is already uptodate.
-<figures/logo-th-rosenheim-2019_master_quer_2c-eps-converted-to.pdf, id=59, 181
+<figures/logo-th-rosenheim-2019_master_quer_2c-eps-converted-to.pdf, id=63, 181
 .67876pt x 57.21375pt>
 File: figures/logo-th-rosenheim-2019_master_quer_2c-eps-converted-to.pdf Graphi
 c file (type pdf)
@@ -554,13 +554,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
 
-<figures/PCB-Layout breite 0,275mm.png, id=99, 641.9985pt x 274.626pt>
+<figures/PCB-Layout breite 0,275mm.png, id=104, 641.9985pt x 274.626pt>
 File: figures/PCB-Layout breite 0,275mm.png Graphic file (type png)
 <use figures/PCB-Layout breite 0,275mm.png>
 Package pdftex.def Info: figures/PCB-Layout breite 0,275mm.png  used on input l
 ine 23.
 (pdftex.def)             Requested size: 455.26375pt x 170.71472pt.
-<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=101, 1565.85pt x 1162.3425pt>
+<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=106, 1565.85pt x 1162.3425pt>
 File: figures/Mikroskopie_paralleleLeiterbahn.jpg Graphic file (type jpg)
 <use figures/Mikroskopie_paralleleLeiterbahn.jpg>
 Package pdftex.def Info: figures/Mikroskopie_paralleleLeiterbahn.jpg  used on i
@@ -586,8 +586,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--65
 
  []
 
-[4 <./figures/Mikroskopie_paralleleLeiterbahn.jpg>]) [5] (KiCad_Workshop.tex)
-[6] (Endmontage Radio und Taschenlampe.tex) [7] (Fazit.tex)
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--72
+
+ []
+
+[4 <./figures/Mikroskopie_paralleleLeiterbahn.jpg>]
+<figures/Belichtungsmaske und Gerät.jpg, id=122, 2187.17125pt x 877.2775pt>
+File: figures/Belichtungsmaske und Gerät.jpg Graphic file (type jpg)
+<use figures/Belichtungsmaske und Gerät.jpg>
+Package pdftex.def Info: figures/Belichtungsmaske und Gerät.jpg  used on input
+ line 75.
+(pdftex.def)             Requested size: 341.41093pt x 156.48419pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+<figures/Leiterbahn nach Entwickeln.jpg, id=123, 1459.4525pt x 2061.7025pt>
+File: figures/Leiterbahn nach Entwickeln.jpg Graphic file (type jpg)
+<use figures/Leiterbahn nach Entwickeln.jpg>
+Package pdftex.def Info: figures/Leiterbahn nach Entwickeln.jpg  used on input 
+line 92.
+(pdftex.def)             Requested size: 341.4348pt x 227.60591pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--107
+
+ []
+
+[5 <./figures/Belichtungsmaske und Gerät.jpg>])
+Underfull \hbox (badness 10000) in paragraph at lines 109--32
+
+ []
+
+[6 <./figures/Leiterbahn nach Entwickeln.jpg>] (KiCad_Workshop.tex) [7]
+(Endmontage Radio und Taschenlampe.tex) [8] (Fazit.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
@@ -612,11 +663,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
-[8] (main.lof)
+[9] (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [9]
+ [10]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -633,20 +684,20 @@ Overfull \hbox (10.32365pt too wide) in paragraph at lines 47--49
 mpus . th-[]rosenheim . de / course / view . php ? id = 5012$[] 
  []
 
-[10] (main.aux (Deckblatt.aux))
+[11] (main.aux (Deckblatt.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 090CBFD7A30A629075131628311C5023;2089.
+(rerunfilecheck)             Checksum: 5651409466DEFD9151294E572E3DD06E;2232.
  ) 
 Here is how much of TeX's memory you used:
- 13373 strings out of 474486
- 214694 string characters out of 5743756
- 1934542 words of memory out of 5000000
- 35344 multiletter control sequences out of 15000+600000
- 568179 words of font info for 112 fonts, out of 8000000 for 9000
+ 13414 strings out of 474486
+ 216010 string characters out of 5743756
+ 1935542 words of memory out of 5000000
+ 35373 multiletter control sequences out of 15000+600000
+ 568375 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1003b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
@@ -658,9 +709,9 @@ ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/marti/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (11 pages, 526429 bytes).
+Output written on main.pdf (12 pages, 1274136 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 25216 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 209 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 25234 words of extra memory for PDF output out of 29859 (max. 10000000)
 

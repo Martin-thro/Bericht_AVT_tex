@@ -5,12 +5,13 @@
 \contentsline {subsection}{\numberline {1.2}Herstellung der Platine}{4}{subsection.1.2}%
 \contentsline {subsubsection}{\numberline {1.2.1}Belichten}{5}{subsubsection.1.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2}Entwickeln}{5}{subsubsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.3}Ätzen}{5}{subsubsection.1.2.3}%
-\contentsline {section}{\numberline {2}KiCad Workshop}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Libraries}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Bauteile}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Footprints}{6}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Endmontage Radio und Taschenlampe}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Bestücken und Löten der Taschenlampe}{7}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Bestücken und Löten des Radios}{7}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Fazit}{8}{section.4}%
+\contentsline {subsubsection}{\numberline {1.2.3}Ätzen}{6}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}Nachbearbeitung}{6}{subsubsection.1.2.4}%
+\contentsline {section}{\numberline {2}KiCad Workshop}{7}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Libraries}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Bauteile}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Footprints}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Endmontage Radio und Taschenlampe}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bestücken und Löten der Taschenlampe}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bestücken und Löten des Radios}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Fazit}{9}{section.4}%
