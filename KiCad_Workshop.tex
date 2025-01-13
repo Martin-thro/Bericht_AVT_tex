@@ -1,33 +1,104 @@
-\section{KiCad Workshop}
+\section{KiCad Workshop}  
 
-\subsection{Libraries}
-Um Leiterplatten zu entwerfen, sind Bauteile und zugehörige Footprints unverzichtbar.
-Bauteile und Footprints werden in Libraries oder auch Bibliotheken angelegt und eingepflegt.
-Man kann zu jedem Projekt eine eigene Library anlegen oder eine allgemeine Library verwenden, dies bleibt dem Entwickler selbst überlassen. 
+\subsection{Bibliotheken}  
+Für die Entwicklung von Leiterplatten sind Bauteile und die dazugehörigen Footprints essenziell.
+Diese werden in Libraries, auch Bibliotheken genannt, organisiert. Entwickler können projektbezogene Bibliotheken erstellen oder auf allgemeine Libraries zugreifen.
+In der Industrie wird oftmals vorgegeben, wie Bauteile in das System eingepflegt werden müssen.\\  
+\\
+Das Erstellen eigener Bibliotheken hat den Vorteil, dass der Entwickler sich schneller zurechtfindet.
+Zudem verwenden Leiterplattenhersteller oft ein festgelegtes Sortiment an Bauteilen.
+In solchen Fällen ist es sinnvoll, Bibliotheken speziell für bestimmte Zulieferer anzulegen.  
 
-In der freien Wirtschaft jedoch wird von Firmen häufig vorgeschrieben, wie und unter welchen Bedingungen Bauteile in das System einzupflegen sind.
-Das Anlegen einer eigenen Bauteilbibliothek hat den Vorteil, dass sich der Anwender schneller zurechtfindet.
-Oft wird auch nur ein gewisses Kontingent an Bauteilen verwendet, da der jeweilige Hersteller der Leiterplatte nur ein definiertes Sortiment nutzt. 
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.8\textwidth]{Platzhalter_Bibliotheken.png}  
+    \caption{Darstellung einer Bibliothek mit Bauteilen.} 
+    \label{fig:Abbildung 5} 
+\end{figure}  
 
-\subsection{Bauteile}
-Um eine Leiterplatte fertigen zu können, braucht man einen Schaltplan, nach welchem man vorgeht.
-Ohne Schaltung braucht man auch keine Leiterplatte.
-Um wiederum einen Schaltplan erstellen zu können, benötigt man Bauteile.
-Diese Bauteile sind zum Teil in KiCad-Standardbibliotheken bereits vorhanden.
+\subsubsection{Bauteile}  
+Ein Schaltplan bildet die Grundlage für jede Leiterplatte.
+Die dafür benötigten Bauteile können aus den KiCad-Standardbibliotheken übernommen oder individuell erstellt werden.
+Im Workshop wurden alle Bauteile in einer eigenen Bibliothek angelegt, um den Projektanforderungen zu entsprechen.  
 
-Im Falle des Taschenlampenprojekts wurden jedoch alle Bauteile extra in einer eigenen Library angelegt.
-Die Bauteile erfüllen primär die Rolle, den Schaltplan richtig zu zeichnen und auf Funktion zu prüfen.
-Bauteile werden im Bauteileditor gezeichnet und dann in einer Library gespeichert.
-In den Symboleigenschaften können zusätzlich Artikelnummern, Datenblätter und 3D-Modelle hinterlegt werden.
+Bauteile werden im Bauteileditor erstellt, wobei Eigenschaften wie Artikelnummern, Datenblätter oder 3D-Modelle hinterlegt werden können.
+Um Zeit zu sparen, können bestehende Bauteile kopiert und angepasst werden.  
 
-Bauteile können im Bauteileditor von Grund auf neu gezeichnet werden, oder man kopiert bereits vorhandene Bauteile und ändert diese entsprechend den Anforderungen ab.
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.6\textwidth]{Platzhalter_Eigenschaften.png}  
+    \caption{Eigenschaften eines Bauteils, z. B. einer Schottky-Diode.}  
+    \label{fig:Abbildung 6}
+\end{figure}  
 
-\subsection{Footprints}
-Um von den Bauteilen eine Verbindung zur Leiterplatte herstellen zu können, müssen sogenannte Footprints erstellt werden.
-Der Footprint oder auch Fußabdruck der Leiterplatte wird je nach Bauteilstruktur so aufgebaut, dass alle Kontaktierungen auf die Leiterplatte passen. 
+\noindent
+Bauteile lassen sich im Bauteileditor entweder komplett neu erstellen oder durch Kopieren bestehender Bauteile zeitsparend anpassen, um sie den individuellen Anforderungen anzupassen.\\
+Die folgende Schottky-Diode wurde beispielsweise aus der KiCad-Bibliothek übernommen und anschließend entsprechend modifiziert.
 
-Die Kontaktherstellung zur Leiterplatte erfolgt über sogenannte Lötpads.
-Diese sind kleine Kupferfelder auf der Leiterplatte, auf welche die Kontakte der Bauteile in der Bestückung aufgelötet werden. Beim Zeichnen der Lötpads sind einige Aspekte zu beachten, wie etwa, ob das Bauteil per Hand oder in einem automatischen Prozess gelötet wird. 
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.6\textwidth]{Platzhalter_Bauteilzeichnung.png}  
+    \caption{Erstellung eines Bauteils im Bauteileditor, z. B. Schottky-Diode.} 
+    \label{fig:Abbildung 7} 
+\end{figure}  
 
-Beim Löten per Hand sollten die Pads etwas größer ausgeführt werden, da man per Hand nicht so genau löten kann.
-Bei automatischen Prozessen sollten die Pads kleiner gehalten werden, um Platz zu sparen und Fehler wie den sogenannten Gravestone-Effekt zu vermeiden, bei dem sich Bauteile aufstellen wie Grabsteine. 
+\subsubsection{Footprints}  
+Footprints stellen die Verbindung zwischen den Bauteilen und der Leiterplatte her. Sie werden im Footprinteditor erstellt und repräsentieren den "Fußabdruck" eines Bauteils auf der Platine.  
+
+Die Verbindung erfolgt über Lötpads, die an die Bauteilkontakte angepasst sind. Für das Handlöten sollten Lötpads größer gestaltet werden, um die Bearbeitung zu erleichtern. Bei automatischer Bestückung sollten die Pads so klein wie möglich gehalten werden, um Platz zu sparen und den sogenannten Gravestone-Effekt (Aufstellen der Bauteile) zu verhindern.  
+
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.6\textwidth]{Platzhalter_Footprinteditor.png}  
+    \caption{Darstellung des Footprinteditors mit Lötpads.}
+    \label{fig:Abbildung 8} 
+\end{figure}  
+
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.6\textwidth]{Platzhalter_Gravestone.png}  
+    \caption{Gravestone-Effekt: Aufstellen der Bauteile.}
+    \label{fig:Abbildung 9}  
+\end{figure}  
+
+\subsection{Erstellen des Schaltplans}  
+Nach dem Einpflegen der Bauteile wird der Schaltplan im Schaltplaneditor erstellt. Die Bauteile werden aus der Bibliothek eingefügt, positioniert und miteinander verbunden. Netzklassen können definiert werden, um Abstände zwischen Signalen oder Gruppen (z. B. Last- und Steuerkreis) zu berücksichtigen.  
+
+Um die Übersichtlichkeit zu erhöhen, können Textvariablen und Labels genutzt werden. Im Workshop wurden Labels beispielsweise für Ground (GND) eingesetzt.  
+
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.8\textwidth]{Platzhalter_Schaltplan.png}  
+    \caption{Schaltplan der Taschenlampe mit markierten Labels.}  
+    \label{fig:Abbildung 10}
+\end{figure}  
+
+Ein "Electrical Rule Check" (ERC) prüft den Schaltplan auf Fehler. Kritische Fehler sollten korrigiert werden, während irrelevante Warnungen ignoriert werden können.  
+
+\subsection{Erstellen des Platinenlayouts}  
+Das Layout ist die Umwandlung des Schaltplans in eine physische Leiterplattenstruktur. Dabei werden die Footprints der Bauteile auf der Platine positioniert und durch Leiterbahnen verbunden.  
+
+Der Layoutprozess umfasst die folgenden Schritte:  
+\begin{itemize}  
+    \item Festlegung der Platinenabmessungen.  
+    \item Positionierung der Footprints im Bauraum.  
+    \item Manuelles Routen der Leiterbahnen.  
+\end{itemize}  
+
+Ein durchgehendes GND-Potenzial wird als Kupferschicht ausgeführt. Die restlichen Verbindungen werden manuell erstellt. Dabei ist besonders darauf zu achten, dass die GND-Schicht nicht unterbrochen wird und die Footprints keine Überschneidungen aufweisen.  
+
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.8\textwidth]{Platzhalter_Layout.png}  
+    \caption{Fertiges Platinenlayout Vorderseite.} 
+    \label{fig:Abbildung 11} 
+\end{figure}  
+
+Die Leiterplatte erhält abschließend einen Bestückungsdruck (Silkscreen), der die Bauteilpositionen markiert.  
+
+\begin{figure}[h]  
+    \centering  
+    \includegraphics[width=0.8\textwidth]{Platzhalter_Bestueckungsdruck.png}  
+    \caption{Silkscreen: Bauteilmarkierungen und Beschriftungen.}  				\label{fig:Abbildung 11}
+\end{figure}  
+ 
