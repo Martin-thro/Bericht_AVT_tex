@@ -16,4 +16,4 @@
 \contentsline {section}{\numberline {3}Endmontage Radio und Taschenlampe}{11}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Bestücken und Löten der Taschenlampe}{11}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Bestücken und Löten des Radios}{12}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Fazit}{14}{section.4}%
+\contentsline {section}{\numberline {4}Fazit}{15}{section.4}%
