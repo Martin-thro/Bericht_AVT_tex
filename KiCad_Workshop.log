@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 12:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2700,9 +2700,26 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.56     \caption
-                 {Gravestone-Effekt: Aufstellen der Bauteile}
+                 {Gravestone-Effekt: Aufstellen der Bauteile\cite{almit_grab...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+\citation{almit_grabstein_manhattan}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.56 ...r Bauteile\cite{almit_grabstein_manhattan}
+                                                  }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `almit_grabstein_manhattan' on page  undefined on input
+ line 56.
 
 
 ! LaTeX Error: \begin{document} ended by \end{figure}.
@@ -2745,7 +2762,7 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 53--59
  []
 
 
-Overfull \hbox (259.74765pt too wide) in paragraph at lines 53--59
+Overfull \hbox (270.73375pt too wide) in paragraph at lines 53--59
 []\OML/cmm/m/it/10 ffekt:png[][]$ 
  []
 
@@ -5283,11 +5300,11 @@ Overfull \hbox (5.55557pt too wide) in paragraph at lines 104--107
 
  
 Here is how much of TeX's memory you used:
- 43 strings out of 474486
- 840 string characters out of 5743756
+ 45 strings out of 474486
+ 861 string characters out of 5743756
  1926542 words of memory out of 5000000
- 22427 multiletter control sequences out of 15000+600000
- 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 22428 multiletter control sequences out of 15000+600000
+ 558377 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,5n,32p,358b,107s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 23i,5n,32p,358b,141s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

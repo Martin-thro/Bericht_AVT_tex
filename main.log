@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -85,13 +85,151 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
+) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+For additional information on amsmath, use the `?' option.
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen144
+))
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen145
+)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen146
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip16
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks21
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks22
+\eqnshift@=\dimen147
+\alignsep@=\dimen148
+\tagshift@=\dimen149
+\tagwidth@=\dimen150
+\totwidth@=\dimen151
+\lineht@=\dimen152
+\@envbody=\toks23
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks25
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count278
+\float@exts=\toks26
+\float@box=\box53
+\@float@everytoks=\toks27
+\@floatcapt=\box54
+)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/12/12 v3.2 Micro-typographical refinements (RS)
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count279
+)
+\MT@toks=\toks28
+\MT@tempbox=\box55
+\MT@count=\count280
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1075.
+LaTeX Info: Redefining \leftprotrusion on input line 1076.
+\MT@prot@toks=\toks29
+LaTeX Info: Redefining \rightprotrusion on input line 1095.
+LaTeX Info: Redefining \textls on input line 1437.
+\MT@outer@kern=\dimen161
+LaTeX Info: Redefining \microtypecontext on input line 2041.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2058.
+\MT@listname@count=\count281
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2024/12/12 v3.2 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip53
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/12/12 v3.2 microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3053.
 )
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
 
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
 ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -141,27 +279,20 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count197
+\c@section@level=\count282
 )
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count198
-)
-\@linkdim=\dimen144
-\Hy@linkcounter=\count199
-\Hy@pagecounter=\count266
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+\@linkdim=\dimen162
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+ (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count267
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+\Hy@SavedSpaceFactor=\count285
+ (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -173,14 +304,14 @@ Package hyperref Info: Plain pages OFF on input line 4196.
 Package hyperref Info: Backreferencing OFF on input line 4201.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4448.
-\c@Hy@tempcnt=\count268
+\c@Hy@tempcnt=\count286
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip16
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen145
+\XeTeXLinkMargin=\dimen163
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -190,9 +321,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count269
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
+\Fld@menulength=\count287
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -205,9 +336,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6095.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count270
-\c@Item=\count271
-\c@Hfootnote=\count272
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -218,8 +349,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -232,143 +363,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip50
-)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip51
-
-For additional information on amsmath, use the `?' option.
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
-Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
-\ex@=\dimen148
-))
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen149
-)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
-Package: amsopn 2022/04/08 v2.04 operator names
-)
-\inf@bad=\count275
-LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count276
-\leftroot@=\count277
-LaTeX Info: Redefining \overline on input line 399.
-LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count278
-\DOTSCASE@=\count279
-LaTeX Info: Redefining \ldots on input line 496.
-LaTeX Info: Redefining \dots on input line 499.
-LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box51
-\strutbox@=\box52
-LaTeX Info: Redefining \big on input line 722.
-LaTeX Info: Redefining \Big on input line 723.
-LaTeX Info: Redefining \bigg on input line 724.
-LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen150
-LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count280
-LaTeX Info: Redefining \bmod on input line 905.
-LaTeX Info: Redefining \pmod on input line 910.
-LaTeX Info: Redefining \smash on input line 940.
-LaTeX Info: Redefining \relbar on input line 970.
-LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count281
-\dotsspace@=\muskip17
-\c@parentequation=\count282
-\dspbrk@lvl=\count283
-\tag@help=\toks21
-\row@=\count284
-\column@=\count285
-\maxfields@=\count286
-\andhelp@=\toks22
-\eqnshift@=\dimen151
-\alignsep@=\dimen152
-\tagshift@=\dimen153
-\tagwidth@=\dimen154
-\totwidth@=\dimen155
-\lineht@=\dimen156
-\@envbody=\toks23
-\multlinegap=\skip52
-\multlinetaggap=\skip53
-\mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2953.
-LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
-Package: amssymb 2013/01/14 v3.01 AMS font symbols
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
-Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\symAMSa=\mathgroup4
-\symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
-LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
-y
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count287
-\Gm@cntv=\count288
-\c@Gm@tempcnt=\count289
-\Gm@bindingoffset=\dimen157
-\Gm@wd@mp=\dimen158
-\Gm@odd@mp=\dimen159
-\Gm@even@mp=\dimen160
-\Gm@layoutwidth=\dimen161
-\Gm@layoutheight=\dimen162
-\Gm@layouthoffset=\dimen163
-\Gm@layoutvoffset=\dimen164
-\Gm@dimlist=\toks25
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count290
-\float@exts=\toks26
-\float@box=\box53
-\@float@everytoks=\toks27
-\@floatcapt=\box54
-)
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2024/12/12 v3.2 Micro-typographical refinements (RS)
-\MT@toks=\toks28
-\MT@tempbox=\box55
-\MT@count=\count291
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1075.
-LaTeX Info: Redefining \leftprotrusion on input line 1076.
-\MT@prot@toks=\toks29
-LaTeX Info: Redefining \rightprotrusion on input line 1095.
-LaTeX Info: Redefining \textls on input line 1437.
-\MT@outer@kern=\dimen165
-LaTeX Info: Redefining \microtypecontext on input line 2041.
-LaTeX Info: Redefining \textmicrotypecontext on input line 2058.
-\MT@listname@count=\count292
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
-tex.def
-File: microtype-pdftex.def 2024/12/12 v3.2 Definitions specific to pdftex (RS)
-LaTeX Info: Redefining \lsstyle on input line 944.
-LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip54
-)
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2024/12/12 v3.2 microtype main configuration file (RS)
-)
-LaTeX Info: Redefining \microtypesetup on input line 3053.
+\Hy@SectionHShift=\skip54
 )
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -378,24 +373,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (main.aux (Deckblatt.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -422,12 +417,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 20.
- (main.out) (main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
-
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -462,20 +451,20 @@ Package hyperref Info: Link coloring OFF on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 20.
-Package microtype Info: Applying patch `item' on input line 20.
-Package microtype Info: Applying patch `toc' on input line 20.
-Package microtype Info: Applying patch `eqnum' on input line 20.
-Package microtype Info: Applying patch `footnote' on input line 20.
-Package microtype Info: Applying patch `verbatim' on input line 20.
-LaTeX Info: Redefining \microtypesetup on input line 20.
+LaTeX Info: Redefining \microtypecontext on input line 21.
+Package microtype Info: Applying patch `item' on input line 21.
+Package microtype Info: Applying patch `toc' on input line 21.
+Package microtype Info: Applying patch `eqnum' on input line 21.
+Package microtype Info: Applying patch `footnote' on input line 21.
+Package microtype Info: Applying patch `verbatim' on input line 21.
+LaTeX Info: Redefining \microtypesetup on input line 21.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 20.
+LaTeX Info: Redefining \showhyphens on input line 21.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -483,10 +472,15 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Package hyperref Info: Link coloring OFF on input line 21.
+
+(main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
 \openout2 = `Deckblatt.aux'.
 
-
-(Deckblatt.tex
+ (Deckblatt.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -516,8 +510,7 @@ erted-to.pdf  used on input line 10.
 
 
 {C:/Users/marti/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./figures/lo
-go-th-rosenheim-2019_master_quer_2c-eps-converted-to.pdf>])
-(main.toc
+go-th-rosenheim-2019_master_quer_2c-eps-converted-to.pdf>]) (main.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
 
 (C:\Users\marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -542,17 +535,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 \newpage
+l.28 \newpage
               [1
 
 
 ] (Einleitung.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--31
+Underfull \hbox (badness 10000) in paragraph at lines 3--32
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--31
+Underfull \hbox (badness 10000) in paragraph at lines 3--32
 
  []
 
@@ -567,20 +560,13 @@ File: figures/PCB-Layout breite 0,275mm.png Graphic file (type png)
 Package pdftex.def Info: figures/PCB-Layout breite 0,275mm.png  used on input l
 ine 23.
 (pdftex.def)             Requested size: 455.26375pt x 170.71472pt.
-[3
-pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.34 
-      <./figures/PCB-Layout breite 0,275mm.png>]
-<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=127, 1565.85pt x 1162.3425pt>
+<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=117, 1565.85pt x 1162.3425pt>
 File: figures/Mikroskopie_paralleleLeiterbahn.jpg Graphic file (type jpg)
 <use figures/Mikroskopie_paralleleLeiterbahn.jpg>
 Package pdftex.def Info: figures/Mikroskopie_paralleleLeiterbahn.jpg  used on i
 nput line 37.
 (pdftex.def)             Requested size: 341.42978pt x 170.708pt.
-
+[3 <./figures/PCB-Layout breite 0,275mm.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 50--65
 
  []
@@ -610,13 +596,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--72
 
  []
 
-[4
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.72 
-      <./figures/Mikroskopie_paralleleLeiterbahn.jpg>]
+[4 <./figures/Mikroskopie_paralleleLeiterbahn.jpg>]
 <figures/Belichtungsmaske und Gerät.jpg, id=133, 2187.17125pt x 877.2775pt>
 File: figures/Belichtungsmaske und Gerät.jpg Graphic file (type jpg)
 <use figures/Belichtungsmaske und Gerät.jpg>
@@ -652,24 +632,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--107
 
  []
 
-[5
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.107 
-       <./figures/Belichtungsmaske und Gerät.jpg>])
-Underfull \hbox (badness 10000) in paragraph at lines 109--33
+[5 <./figures/Belichtungsmaske und Gerät.jpg>])
+Underfull \hbox (badness 10000) in paragraph at lines 109--34
 
  []
 
-[6
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.33 \newpage
-              <./figures/Leiterbahn nach Entwickeln.jpg>] (KiCad_Workshop.tex
+[6 <./figures/Leiterbahn nach Entwickeln.jpg>] (KiCad_Workshop.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
@@ -703,13 +671,7 @@ Package pdftex.def Info: figures/Footprinteditor.png  used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7
-pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.45 \newpage
-              <./figures/Footprint_Bibliothek mit Bauteilen.png>]
+[7 <./figures/Footprint_Bibliothek mit Bauteilen.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
@@ -719,31 +681,13 @@ File: figures/Gravestone_Effekt.png Graphic file (type png)
 <use figures/Gravestone_Effekt.png>
 Package pdftex.def Info: figures/Gravestone_Effekt.png  used on input line 55.
 (pdftex.def)             Requested size: 273.16086pt x 128.04648pt.
-[8
-pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.59 \newpage
-             
-pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.59 \newpage
-             
-pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.59 \newpage
-              <./figures/Battery_Symbol Eigenschaften.png> <./figures/Footprint
-editor.png> <./figures/Gravestone_Effekt.png>]
+[8 <./figures/Battery_Symbol Eigenschaften.png> <./figures/Footprinteditor.png>
+ <./figures/Gravestone_Effekt.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
-<figures/Schaltplan_Taschenlampe.png, id=166, 584.1825pt x 248.72925pt>
+<figures/Schaltplan_Taschenlampe.png, id=168, 584.1825pt x 248.72925pt>
 File: figures/Schaltplan_Taschenlampe.png Graphic file (type png)
 <use figures/Schaltplan_Taschenlampe.png>
 Package pdftex.def Info: figures/Schaltplan_Taschenlampe.png  used on input lin
@@ -754,30 +698,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--81
 
  []
 
-[9
-pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) ha
-s been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.82 \newpage
-              <./figures/Schaltplan_Taschenlampe.png>]
+[9 <./figures/Schaltplan_Taschenlampe.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-<figures/3D_Betrachter_Taschenlampe.png, id=173, 635.976pt x 257.16075pt>
+<figures/3D_Betrachter_Taschenlampe.png, id=175, 635.976pt x 257.16075pt>
 File: figures/3D_Betrachter_Taschenlampe.png Graphic file (type png)
 <use figures/3D_Betrachter_Taschenlampe.png>
 Package pdftex.def Info: figures/3D_Betrachter_Taschenlampe.png  used on input 
 line 99.
 (pdftex.def)             Requested size: 364.19667pt x 147.2659pt.
-) [10
-pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.35 \newpage
-              <./figures/3D_Betrachter_Taschenlampe.png>]
+) [10 <./figures/3D_Betrachter_Taschenlampe.png>]
 (Endmontage Radio und Taschenlampe.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--18
 
@@ -793,13 +725,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--18
 
  []
 
-<figures/Unterseite der Taschenlampe.jpg, id=181, 3035.34pt x 1164.35pt>
+<figures/Unterseite der Taschenlampe.jpg, id=183, 3035.34pt x 1164.35pt>
 File: figures/Unterseite der Taschenlampe.jpg Graphic file (type jpg)
 <use figures/Unterseite der Taschenlampe.jpg>
 Package pdftex.def Info: figures/Unterseite der Taschenlampe.jpg  used on input
  line 21.
 (pdftex.def)             Requested size: 364.19667pt x 139.6982pt.
-<figures/Oberseite der Taschenlampe.jpg, id=182, 2894.815pt x 845.1575pt>
+<figures/Oberseite der Taschenlampe.jpg, id=184, 2894.815pt x 845.1575pt>
 File: figures/Oberseite der Taschenlampe.jpg Graphic file (type jpg)
 <use figures/Oberseite der Taschenlampe.jpg>
 Package pdftex.def Info: figures/Oberseite der Taschenlampe.jpg  used on input 
@@ -810,21 +742,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--41
 
  []
 
-[11
-pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.41 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.41 
-      <./figures/Unterseite der Taschenlampe.jpg> <./figures/Oberseite der Tasc
-henlampe.jpg>]
-<figures/Handdispenser beim Auftragen der Lötpaste.jpg, id=189, 1606.0pt x 903
+[11 <./figures/Unterseite der Taschenlampe.jpg> <./figures/Oberseite der Tasche
+nlampe.jpg>]
+<figures/Handdispenser beim Auftragen der Lötpaste.jpg, id=191, 1606.0pt x 903
 .375pt>
 File: figures/Handdispenser beim Auftragen der Lötpaste.jpg Graphic file (type
  jpg)
@@ -832,42 +752,24 @@ File: figures/Handdispenser beim Auftragen der Lötpaste.jpg Graphic file (type
 Package pdftex.def Info: figures/Handdispenser beim Auftragen der Lötpaste.jpg
   used on input line 44.
 (pdftex.def)             Requested size: 364.19667pt x 204.86337pt.
-<figures/Handhabungsgerät.jpg, id=190, 1606.0pt x 903.375pt>
+<figures/Handhabungsgerät.jpg, id=192, 1606.0pt x 903.375pt>
 File: figures/Handhabungsgerät.jpg Graphic file (type jpg)
 <use figures/Handhabungsgerät.jpg>
 Package pdftex.def Info: figures/Handhabungsgerät.jpg  used on input line 56.
 (pdftex.def)             Requested size: 364.20157pt x 170.70569pt.
- [12
-pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.61 \newpage
-             
-pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.61 \newpage
-              <./figures/Handdispenser beim Auftragen der Lötpaste.jpg> <./fig
-ures/Handhabungsgerät.jpg>]
+ [12 <./figures/Handdispenser beim Auftragen der Lötpaste.jpg> <./figures/Hand
+habungsgerät.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--70
 
  []
 
-<figures/Schablone und Rakel.jpg, id=198, 1606.0pt x 903.375pt>
+<figures/Schablone und Rakel.jpg, id=200, 1606.0pt x 903.375pt>
 File: figures/Schablone und Rakel.jpg Graphic file (type jpg)
 <use figures/Schablone und Rakel.jpg>
 Package pdftex.def Info: figures/Schablone und Rakel.jpg  used on input line 73
 .
 (pdftex.def)             Requested size: 364.19667pt x 204.86337pt.
-[13
-pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.78 \newpage
-              <./figures/Schablone und Rakel.jpg>]
+[13 <./figures/Schablone und Rakel.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
@@ -877,13 +779,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--89
 
  []
 
-<figures/Radioplatine im Reflowofen.png, id=204, 602.25pt x 338.76563pt>
+<figures/Radioplatine im Reflowofen.png, id=206, 602.25pt x 338.76563pt>
 File: figures/Radioplatine im Reflowofen.png Graphic file (type png)
 <use figures/Radioplatine im Reflowofen.png>
 Package pdftex.def Info: figures/Radioplatine im Reflowofen.png  used on input 
 line 92.
 (pdftex.def)             Requested size: 364.19667pt x 204.86853pt.
-<figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg, id=205, 3035.34p
+<figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg, id=207, 3035.34p
 t x 2091.815pt>
 File: figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg Graphic file
  (type jpg)
@@ -891,41 +793,29 @@ File: figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg Graphic file
 Package pdftex.def Info: figures/Radioplatine Unterseite mit angeklemmter Anten
 ne.jpg  used on input line 99.
 (pdftex.def)             Requested size: 364.17877pt x 199.13943pt.
-) [14
-pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.37 \newpage
-             
-pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.37 \newpage
-              <./figures/Radioplatine im Reflowofen.png> <./figures/Radioplatin
-e Unterseite mit angeklemmter Antenne.jpg>] (Fazit.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
+) [14 <./figures/Radioplatine im Reflowofen.png> <./figures/Radioplatine Unters
+eite mit angeklemmter Antenne.jpg>] (Fazit.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
+Underfull \hbox (badness 10000) in paragraph at lines 3--40
 
  []
 
@@ -933,23 +823,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--39
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [16] [17] (main.aux (Deckblatt.aux))
+ [16] (main.bbl) [17] (main.aux (Deckblatt.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B96AFDEA67183677F46C216D81EA8F0C;2665.
  ) 
 Here is how much of TeX's memory you used:
- 13672 strings out of 474486
- 223899 string characters out of 5743756
+ 13688 strings out of 474486
+ 224172 string characters out of 5743756
  1935542 words of memory out of 5000000
- 35590 multiletter control sequences out of 15000+600000
+ 35601 multiletter control sequences out of 15000+600000
  568941 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1003b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -962,9 +848,9 @@ ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppD
 ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (18 pages, 4817657 bytes).
+Output written on main.pdf (18 pages, 4818876 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 58 named destinations out of 1000 (max. 500000)
  26851 words of extra memory for PDF output out of 29859 (max. 10000000)
 

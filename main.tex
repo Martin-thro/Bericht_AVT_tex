@@ -1,15 +1,16 @@
 
 \documentclass[a4paper,12pt]{article}
-\usepackage[utf8]{inputenc}
+	\usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
 \usepackage{graphicx}
-\usepackage{hyperref}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{geometry}
 \usepackage{float}
 \geometry{a4paper, margin=2.5cm}
 \usepackage{microtype}  % optischer Randausgleich etc.
+\usepackage{hyperref}
+
 
 
 % Erstellen der directorys für Bilder und Tabellen
@@ -41,6 +42,6 @@
 \listoffigures % Abbildungsverzeichnis
 \newpage
 
-\section*{Quellenverzeichnis}
- 
+\bibliographystyle{IEEEtran}	
+\bibliography{Bericht_AVT.bib}
 \end{document}
