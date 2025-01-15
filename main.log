@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 10:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 12:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -709,7 +709,111 @@ File: figures/3D_Betrachter_Taschenlampe.png Graphic file (type png)
 Package pdftex.def Info: figures/3D_Betrachter_Taschenlampe.png  used on input 
 line 99.
 (pdftex.def)             Requested size: 364.19667pt x 147.2659pt.
-) [10 <./figures/3D_Betrachter_Taschenlampe.png>] (Fazit.tex)
+) [10 <./figures/3D_Betrachter_Taschenlampe.png>]
+(Endmontage Radio und Taschenlampe.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--18
+
+ []
+
+<figures/Unterseite der Taschenlampe.jpg, id=181, 4047.12pt x 3035.34pt>
+File: figures/Unterseite der Taschenlampe.jpg Graphic file (type jpg)
+<use figures/Unterseite der Taschenlampe.jpg>
+Package pdftex.def Info: figures/Unterseite der Taschenlampe.jpg  used on input
+ line 21.
+(pdftex.def)             Requested size: 364.19667pt x 273.1225pt.
+<figures/Oberseite der Taschenlampe.jpg, id=182, 4047.12pt x 3035.34pt>
+File: figures/Oberseite der Taschenlampe.jpg Graphic file (type jpg)
+<use figures/Oberseite der Taschenlampe.jpg>
+Package pdftex.def Info: figures/Oberseite der Taschenlampe.jpg  used on input 
+line 28.
+(pdftex.def)             Requested size: 364.19667pt x 273.1225pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--41
+
+ []
+
+[11 <./figures/Unterseite der Taschenlampe.jpg>]
+<figures/Handdispenser beim Auftragen der Lötpaste.jpg, id=188, 1606.0pt x 903
+.375pt>
+File: figures/Handdispenser beim Auftragen der Lötpaste.jpg Graphic file (type
+ jpg)
+<use figures/Handdispenser beim Auftragen der Lötpaste.jpg>
+Package pdftex.def Info: figures/Handdispenser beim Auftragen der Lötpaste.jpg
+  used on input line 44.
+(pdftex.def)             Requested size: 364.19667pt x 204.86337pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/Handhabungsgerät.jpg, id=189, 1606.0pt x 903.375pt>
+File: figures/Handhabungsgerät.jpg Graphic file (type jpg)
+<use figures/Handhabungsgerät.jpg>
+Package pdftex.def Info: figures/Handhabungsgerät.jpg  used on input line 56.
+(pdftex.def)             Requested size: 364.19667pt x 204.86337pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--69
+
+ []
+
+<figures/Schablone und Rakel.jpg, id=190, 1606.0pt x 903.375pt>
+File: figures/Schablone und Rakel.jpg Graphic file (type jpg)
+<use figures/Schablone und Rakel.jpg>
+Package pdftex.def Info: figures/Schablone und Rakel.jpg  used on input line 72
+.
+(pdftex.def)             Requested size: 364.19667pt x 204.86337pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--87
+
+ []
+
+[12 <./figures/Oberseite der Taschenlampe.jpg>]
+<figures/Radioplatine im Reflowofen.jpg, id=197, 677.53125pt x 1204.5pt>
+File: figures/Radioplatine im Reflowofen.jpg Graphic file (type jpg)
+<use figures/Radioplatine im Reflowofen.jpg>
+Package pdftex.def Info: figures/Radioplatine im Reflowofen.jpg  used on input 
+line 90.
+(pdftex.def)             Requested size: 364.19667pt x 647.47966pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg, id=198, 4047.12p
+t x 3035.34pt>
+File: figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg Graphic file
+ (type jpg)
+<use figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg>
+Package pdftex.def Info: figures/Radioplatine Unterseite mit angeklemmter Anten
+ne.jpg  used on input line 97.
+(pdftex.def)             Requested size: 364.19667pt x 273.1225pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [13 <./figures/Handdispenser beim Auftragen der Lötpaste.jpg> <./figures/Han
+dhabungsgerät.jpg>] (Fazit.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
@@ -734,85 +838,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
-[11] (main.lof)
+[14 <./figures/Schablone und Rakel.jpg>]
+
+LaTeX Warning: Text page 15 contains only floats.
+
+[15 <./figures/Radioplatine im Reflowofen.jpg>] (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [12] [13] (main.aux (Deckblatt.aux))
+ [16 <./figures/Radioplatine Unterseite mit angeklemmter Antenne.jpg>] [17] (ma
+in.aux (Deckblatt.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: B96AFDEA67183677F46C216D81EA8F0C;2665
-(rerunfilecheck)             After:  8A1763DBACE0D7B903FD0CB9AF34D8C1;1965.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B96AFDEA67183677F46C216D81EA8F0C;2665.
  ) 
 Here is how much of TeX's memory you used:
- 13499 strings out of 474486
- 218128 string characters out of 5743756
+ 13604 strings out of 474486
+ 222885 string characters out of 5743756
  1935542 words of memory out of 5000000
- 35431 multiletter control sequences out of 15000+600000
- 568892 words of font info for 123 fonts, out of 8000000 for 9000
+ 35527 multiletter control sequences out of 15000+600000
+ 568941 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1003b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{figure.17} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.16} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.15} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.14} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.13} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.12} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{figure.11} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{section.4} has been referenced but does not exist, 
-replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.2} has been referenced but does not ex
-ist, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not ex
-ist, replaced by a fixed one
-
- <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm12
-00.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/marti/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (14 pages, 1555558 bytes).
+ <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/marti/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (18 pages, 13079582 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 26816 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 26851 words of extra memory for PDF output out of 29859 (max. 10000000)
 

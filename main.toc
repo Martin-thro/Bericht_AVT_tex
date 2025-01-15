@@ -13,4 +13,7 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Footprints}{8}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Erstellen des Schaltplans}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Erstellen des Platinenlayouts}{10}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Fazit}{11}{section.3}%
+\contentsline {section}{\numberline {3}Endmontage Radio und Taschenlampe}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Bestücken und Löten der Taschenlampe}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Bestücken und Löten des Radios}{12}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Fazit}{14}{section.4}%
