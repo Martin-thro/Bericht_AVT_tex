@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 01:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.1.7)  15 JAN 2025 10:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -554,13 +554,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
 
-<figures/PCB-Layout breite 0,275mm.png, id=114, 641.9985pt x 274.626pt>
+<figures/PCB-Layout breite 0,275mm.png, id=115, 641.9985pt x 274.626pt>
 File: figures/PCB-Layout breite 0,275mm.png Graphic file (type png)
 <use figures/PCB-Layout breite 0,275mm.png>
 Package pdftex.def Info: figures/PCB-Layout breite 0,275mm.png  used on input l
 ine 23.
 (pdftex.def)             Requested size: 455.26375pt x 170.71472pt.
-<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=116, 1565.85pt x 1162.3425pt>
+<figures/Mikroskopie_paralleleLeiterbahn.jpg, id=117, 1565.85pt x 1162.3425pt>
 File: figures/Mikroskopie_paralleleLeiterbahn.jpg Graphic file (type jpg)
 <use figures/Mikroskopie_paralleleLeiterbahn.jpg>
 Package pdftex.def Info: figures/Mikroskopie_paralleleLeiterbahn.jpg  used on i
@@ -597,7 +597,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--72
  []
 
 [4 <./figures/Mikroskopie_paralleleLeiterbahn.jpg>]
-<figures/Belichtungsmaske und Gerät.jpg, id=132, 2187.17125pt x 877.2775pt>
+<figures/Belichtungsmaske und Gerät.jpg, id=133, 2187.17125pt x 877.2775pt>
 File: figures/Belichtungsmaske und Gerät.jpg Graphic file (type jpg)
 <use figures/Belichtungsmaske und Gerät.jpg>
 Package pdftex.def Info: figures/Belichtungsmaske und Gerät.jpg  used on input
@@ -618,7 +618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--89
 
  []
 
-<figures/Leiterbahn nach Entwickeln.jpg, id=133, 1459.4525pt x 2061.7025pt>
+<figures/Leiterbahn nach Entwickeln.jpg, id=134, 1459.4525pt x 2061.7025pt>
 File: figures/Leiterbahn nach Entwickeln.jpg Graphic file (type jpg)
 <use figures/Leiterbahn nach Entwickeln.jpg>
 Package pdftex.def Info: figures/Leiterbahn nach Entwickeln.jpg  used on input 
@@ -642,7 +642,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--11
 
  []
 
-<figures/Footprint_Bibliothek mit Bauteilen.png, id=145, 557.08125pt x 251.1382
+<figures/Footprint_Bibliothek mit Bauteilen.png, id=146, 557.08125pt x 251.1382
 4pt>
 File: figures/Footprint_Bibliothek mit Bauteilen.png Graphic file (type png)
 <use figures/Footprint_Bibliothek mit Bauteilen.png>
@@ -654,7 +654,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
  []
 
-<figures/Battery_Symbol Eigenschaften.png, id=146, 702.82574pt x 366.168pt>
+<figures/Battery_Symbol Eigenschaften.png, id=147, 702.82574pt x 366.168pt>
 File: figures/Battery_Symbol Eigenschaften.png Graphic file (type png)
 <use figures/Battery_Symbol Eigenschaften.png>
 Package pdftex.def Info: figures/Battery_Symbol Eigenschaften.png  used on inpu
@@ -663,7 +663,7 @@ t line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/Footprinteditor.png, id=147, 1154.51324pt x 582.37575pt>
+<figures/Footprinteditor.png, id=148, 1154.51324pt x 582.37575pt>
 File: figures/Footprinteditor.png Graphic file (type png)
 <use figures/Footprinteditor.png>
 Package pdftex.def Info: figures/Footprinteditor.png  used on input line 40.
@@ -676,7 +676,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--52
 
  []
 
-<figures/Gravestone_Effekt.png, id=154, 346.896pt x 159.7167pt>
+<figures/Gravestone_Effekt.png, id=155, 346.896pt x 159.7167pt>
 File: figures/Gravestone_Effekt.png Graphic file (type png)
 <use figures/Gravestone_Effekt.png>
 Package pdftex.def Info: figures/Gravestone_Effekt.png  used on input line 55.
@@ -687,7 +687,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--65
 
  []
 
-<figures/Schaltplan_Taschenlampe.png, id=165, 584.1825pt x 248.72925pt>
+<figures/Schaltplan_Taschenlampe.png, id=166, 584.1825pt x 248.72925pt>
 File: figures/Schaltplan_Taschenlampe.png Graphic file (type png)
 <use figures/Schaltplan_Taschenlampe.png>
 Package pdftex.def Info: figures/Schaltplan_Taschenlampe.png  used on input lin
@@ -703,14 +703,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-<figures/3D_Betrachter_Taschenlampe.png, id=172, 635.976pt x 257.16075pt>
+<figures/3D_Betrachter_Taschenlampe.png, id=173, 635.976pt x 257.16075pt>
 File: figures/3D_Betrachter_Taschenlampe.png Graphic file (type png)
 <use figures/3D_Betrachter_Taschenlampe.png>
 Package pdftex.def Info: figures/3D_Betrachter_Taschenlampe.png  used on input 
 line 99.
 (pdftex.def)             Requested size: 364.19667pt x 147.2659pt.
-) [10 <./figures/3D_Betrachter_Taschenlampe.png>]
-(Endmontage Radio und Taschenlampe.tex) [11] (Fazit.tex)
+) [10 <./figures/3D_Betrachter_Taschenlampe.png>] (Fazit.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
@@ -735,37 +734,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--38
 
  []
 
-[12] (main.lof)
+[11] (main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [13] [14] (main.aux (Deckblatt.aux))
+ [12] [13] (main.aux (Deckblatt.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B96AFDEA67183677F46C216D81EA8F0C;2665.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: B96AFDEA67183677F46C216D81EA8F0C;2665
+(rerunfilecheck)             After:  8A1763DBACE0D7B903FD0CB9AF34D8C1;1965.
  ) 
 Here is how much of TeX's memory you used:
- 13489 strings out of 474486
- 218278 string characters out of 5743756
+ 13499 strings out of 474486
+ 218128 string characters out of 5743756
  1935542 words of memory out of 5000000
- 35428 multiletter control sequences out of 15000+600000
- 568451 words of font info for 120 fonts, out of 8000000 for 9000
+ 35431 multiletter control sequences out of 15000+600000
+ 568892 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1003b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/marti/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (15 pages, 1543175 bytes).
+ 75i,11n,79p,1003b,598s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{figure.17} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.16} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.15} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.14} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.13} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.12} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{figure.11} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+ <C:\Users\marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm12
+00.pk><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Users/marti/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/marti/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/marti/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/marti/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (14 pages, 1555558 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 24768 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 269 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 500000)
+ 26816 words of extra memory for PDF output out of 29859 (max. 10000000)
 

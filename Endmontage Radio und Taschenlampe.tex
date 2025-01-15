@@ -1,8 +1,79 @@
-
 \section{Endmontage Radio und Taschenlampe}
 
 \subsection{Bestücken und Löten der Taschenlampe}
-Die Taschenlampe wurde extra so entworfen, dass auch die SMD-Bauteile per Hand aufgelötet werden können. \ldots
+Die Taschenlampe wurde speziell so gestaltet, dass selbst die SMD-Bauteile problemlos von Hand gelötet werden können. Dabei spielt insbesondere die Größe der Lötpads eine entscheidende Rolle. Während für das Löten im Reflow-Ofen möglichst kleine Pads verwendet werden, müssen diese für das manuelle Löten etwas größer ausgelegt sein, um genügend Spielraum für den Lötkolben zu gewährleisten.
+
+Zu Beginn wurden die SMD-Bauteile auf der Unterseite der Platine gelötet. Diese Reihenfolge erleichtert die Arbeit, da die Platine dadurch weiterhin flach auf der Arbeitsfläche aufliegt, was die präzise Positionierung der kleinen Bauteile unterstützt. Im Anschluss daran wurden die Durchsteckbauteile gelötet. Diese Arbeitsschritte sind in der Regel einfacher, da die größeren Bauteile stabiler sind und während des Lötprozesses nicht verrutschen können.
+
+Nach dem Löten der bedrahteten Bauteile wurden überstehende Drähte, beispielsweise von Leuchtdioden und Spulen, mithilfe eines Seitenschneiders entfernt.
+
+Bei der Montage der Taschenlampe ist es wichtig, die Reihenfolge einzuhalten: Zuerst werden SMD-Bauteile und anschließend Durchsteckbauteile gelötet. Besondere Aufmerksamkeit gilt der Polarität der Schottky-Diode und der Leuchtdioden. Zudem sollten Kondensatoren nicht übermäßig lange mit Hitze in Kontakt kommen, um Schäden zu vermeiden.
+
+Nach Abschluss des Lötprozesses wird die Taschenlampe auf ihre Funktion überprüft.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_taschenlampe_unterseite.png}
+    \caption{Unterseite der Taschenlampe mit sichtbaren SMD-Bauteilen.}
+    \label{fig:taschenlampe_unterseite}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_taschenlampe_oberseite.png}
+    \caption{Oberseite der Taschenlampe mit Schalter, Batteriehalter, Spule und LED.}
+    \label{fig:taschenlampe_oberseite}
+\end{figure}
 
 \subsection{Bestücken und Löten des Radios}
-Die Radioplatine wurde mit verschiedenen Verfahren bestückt. \ldots
+Die Radioplatine wurde mit einer Kombination aus manuellen und maschinellen Verfahren bestückt. Auch beim Auftragen der Lötpaste kamen unterschiedliche Methoden zum Einsatz.
+
+Auf der Vorderseite der Radioplatine befinden sich sechs Leuchtdioden und zwei Lautsprecher. Wegen der vergleichsweise geringen Bauteilanzahl wurde die Lötpaste hier mit einem Handdispenser aufgetragen, der über Druckluft gesteuert wird. Ein Fußpedal reguliert den Luftdruck und sorgt dafür, dass eine präzise Menge Lötpaste auf die Pads aufgetragen wird. Bei den Lautsprecherpads wird die Paste in Mäanderbewegungen verteilt, während bei den Pads der Leuchtdioden einzelne Linien ausreichen.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_handdispenser.png}
+    \caption{Handdispenser beim Auftragen der Lötpaste auf die Radioplatine.}
+    \label{fig:handdispenser}
+\end{figure}
+
+Nach dem Auftragen der Lötpaste erfolgte die Bestückung der Bauteile mit einem Handmanipulator. Dieser erkennt durch Anpressdruck, wann ein Bauteil aufgenommen oder aufgesetzt wird, und nutzt Unterdruck, um die Bauteile sicher zu halten. Zusätzlich ermöglicht der Manipulator das Drehen der Bauteile, während ein rotierendes Magazin für eine kontinuierliche Versorgung sorgt.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_manipulator.png}
+    \caption{Aufnahme eines Elko-Kondensators mit dem Manipulator.}
+    \label{fig:manipulator}
+\end{figure}
+
+Anschließend wurde die Vorderseite der Radioplatine in einem Reflow-Ofen verlötet. Die Vorheizphase dauerte 45 Sekunden, gefolgt von einer 15-sekündigen Lötphase. Nach dem Löten musste die Platine zunächst auskühlen, da sie sehr heiß war. Um ein Verrutschen der bereits gelöteten Bauteile beim zweiten Lötvorgang zu verhindern, wurden diese zusätzlich mit Kleber fixiert.
+
+Für die Rückseite der Platine wurde die Lötpaste mit einer Schablone und einer Rakel aufgetragen. Dabei musste die Platine exakt unter der Schablone positioniert werden, um sicherzustellen, dass die Paste präzise auf den Pads landet.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_schablone.png}
+    \caption{Schablone und Rakel beim Auftragen der Lötpaste auf die Rückseite der Platine.}
+    \label{fig:schablone}
+\end{figure}
+
+Nach dem Auftragen der Paste wurde die Platine in einen Bestückungsautomaten eingelegt. Dieser erkannte die Fiducial Points und richtete die Platine entsprechend aus. Die meisten Bauteile wurden automatisch bestückt, jedoch mussten einige wie Elkos, bestimmte SMD-Widerstände, Kondensatoren und ICs manuell mit dem Manipulator ergänzt werden.
+
+Für zwei ICs kam ein spezielles Kamerasystem zum Einsatz. Dieses verwendete Spiegel, um die Kontakte unterhalb der Chips sichtbar zu machen, was eine präzise Platzierung ermöglichte.
+
+Nach der vollständigen Bestückung wurde die Radioplatine ein zweites Mal im Reflow-Ofen verlötet. Anschließend lötete man per Hand drei Drähte zum Programmieren des Radiochips an. Die Software wurde aufgespielt, eine Antenne an Stecker X201 befestigt, und die Funktionalität des Radios geprüft.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_reflowofen.png}
+    \caption{Radioplatine im Reflow-Ofen.}
+    \label{fig:reflowofen}
+\end{figure}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\textwidth]{platzhalter_antenne.png}
+    \caption{Rückseite der Radioplatine mit angeklemmter Antenne.}
+    \label{fig:antenne}
+\end{figure}
+
